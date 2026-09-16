@@ -1,7 +1,6 @@
 Python family: 3.9
 Project: DataSci 217 Assignment 01
 Script: readiness.py
-TODO: complete the measurement summary
 Measurement: 18 within range
 Measurement: 21 review
 Measurement: 24 review
