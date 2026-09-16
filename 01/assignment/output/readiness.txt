@@ -1,4 +1,4 @@
-Python family: 3.9
+Python family: 3.13
 Project: DataSci 217 Assignment 01
 Script: readiness.py
 Measurement: 18 within range
